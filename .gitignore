@@ -129,4 +129,5 @@ dmypy.json
 .pyre/
 
 .vscode
-pollApp/migrations/0001_initial.py
+pollApp/migrations/
+polls/settings/local.py
