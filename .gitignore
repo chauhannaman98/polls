@@ -127,3 +127,6 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+.vscode
+pollApp/migrations/0001_initial.py
