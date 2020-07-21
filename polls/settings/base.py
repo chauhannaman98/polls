@@ -25,7 +25,10 @@ SECRET_KEY = '2tt#2!dy6t)i5^c2k%tg&1vo3vjgji#qn@1t%&a#*i!hppx@)*'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['*.herokuapp.com']
+ALLOWED_HOSTS = [
+    'pollsapp-django.herokuapp.com',
+    'pollsapp-staging.herokuapp.com'
+    ]
 
 
 # Application definition
