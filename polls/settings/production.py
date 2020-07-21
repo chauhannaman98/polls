@@ -28,8 +28,8 @@ SECRET_KEY = '2tt#2!dy6t)i5^c2k%tg&1vo3vjgji#qn@1t%&a#*i!hppx@)*'
 DEBUG = True
 
 ALLOWED_HOSTS = [
-    'pollsapp-staging.herokuapp.com',
-    'pollsapp-django.herokuapp.com'
+    'pollsapp-django.herokuapp.com',
+    'pollsapp-staging.herokuapp.com'
     ]
 
 
