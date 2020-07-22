@@ -25,7 +25,7 @@ BASE_DIR = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__fil
 SECRET_KEY = '2tt#2!dy6t)i5^c2k%tg&1vo3vjgji#qn@1t%&a#*i!hppx@)*'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = True
+DEBUG = False
 
 ALLOWED_HOSTS = [
     'pollsapp-django.herokuapp.com',
